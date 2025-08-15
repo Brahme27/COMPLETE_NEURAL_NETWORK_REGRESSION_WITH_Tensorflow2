@@ -1,0 +1,5 @@
+# conda create -p venv python=3.7 -y
+venv/
+
+
+# If you have GPU's you can happily run on you local machine
