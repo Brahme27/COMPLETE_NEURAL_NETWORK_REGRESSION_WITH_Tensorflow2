@@ -1,0 +1,5 @@
+tensorflow==2.19.0
+
+'''
+I ran complete code on TensorFlow 2.19.0 on Google Colab,with python 3
+'''
